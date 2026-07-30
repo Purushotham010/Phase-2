@@ -1,3 +1,4 @@
+package programs;
 import java.util.Scanner;
 class Ascii {
     public static void main(String[] args){
@@ -6,7 +7,7 @@ class Ascii {
         char c = sc.next().charAt(0);
         int a = c;
         System.out.println("The ASCII value of " + c + " is " + a);
-        sc.close();
+         sc.close();
 
     }
 
