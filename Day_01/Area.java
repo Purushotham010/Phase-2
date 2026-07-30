@@ -1,3 +1,4 @@
+
 class Area {
     public static void main(String[] args){
         int r = 6;
